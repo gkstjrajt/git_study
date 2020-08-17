@@ -6,5 +6,6 @@ public class HelloJava {
 		System.out.println("World's end DanceHall");
 		System.out.println("Earth's End DanceHall");
 		System.out.println("Hello Java");
+		System.out.println("github 연동");
 	}
 }
