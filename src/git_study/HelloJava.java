@@ -7,5 +7,7 @@ public class HelloJava {
 		System.out.println("Earth's End DanceHall");
 		System.out.println("Hello Java");
 		System.out.println("github 연동");
+		
+		System.out.println("A programmer");
 	}
 }
